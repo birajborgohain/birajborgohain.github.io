@@ -28,5 +28,5 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Mindfuel"
-    url: /year-archive/
+  # - title: "Mindfuel"
+  #   url: /year-archive/
