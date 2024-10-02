@@ -1,7 +1,7 @@
 ---
 title: 'When To Do What You Love'
 date: 2024-10-2
-permalink: /posts/2024-10-passion-curiosity/
+permalink: /post/2024-10-passion-curiosity/
 tags:
   - cool posts
   - category1
