@@ -1,5 +1,5 @@
 ---
-title: 'When To Do What You Love'
+title: 'When To Do What You Love by Paul Graham'
 date: 2024-10-2
 permalink: /posts/2024-10-curiosity/
 tags:
