@@ -2,6 +2,10 @@
 title: 'When To Do What You Love by Paul Graham'
 date: 2024-10-2
 permalink: /posts/2024/10/curiosity/
+
+date: 2024-10-2
+permalink: /posts/2012/10/blog-post-1/
+
 tags:
   - cool posts
   - category1
