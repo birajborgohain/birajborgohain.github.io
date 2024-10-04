@@ -13,14 +13,15 @@ redirect_from:
 
 * Developing skills to write code in Python, C++, and FORTRAN.
 * Exploring physics-informed machine learning (PIML) methods to enable effective modeling of complex Earth systems involving multiple physical processes, scale lengths, and phases. PIML is an approach that incorporates deep learning with fundamental physical laws aiming to develop physics-consistent and scalable machine learning models to facilitate new discoveries from scientific data.
+
+# Earth Science Education Research (2023-Present)
+
+* Designing research projects and conducting fieldwork for school students as a means to popularise geoscience and prepare them for careers in Earth Sciences.
   
 # Mineral-Microbe-Water Interaction (2022-present)
 
 * Exploring (1) how minerals form and react with their surrounding solutions - atomic to pore scale geochemical processes, (2) biogeochemical transformation and transportation of chemical and biological components at different temporal and spatial scales, and (3) models of ecological and biogeochemical systems that can be used to assess the impacts of mineral-microbe-water interactions in a geoengineering method (Enhanced Rock Weathering).
   
-# Earth Science Education Research (2023-Present)
-
-* Designing research projects and conducting fieldwork for school students as a means to popularise geoscience and prepare them for careers in Earth Sciences.
    
 # Climate-Tectonic Interaction (2014-Present)
 * Studied the interactions between climate and tectonic processes that impact the habitability and sustainability of life.
