@@ -16,7 +16,7 @@ redirect_from:
 # Computer programming to build tools for the geoscience community
 
 * Developing skills to write code in Python, C++, and FORTRAN.
-* Exploring physics-informed machine learning methods to enable effective modeling of complex Earth systems involving multiple physical processes, scale lengths, and phases.
+* Exploring physics-informed machine learning (PIML) methods to enable effective modeling of complex Earth systems involving multiple physical processes, scale lengths, and phases. PIML is an approach that incorporates deep learning with fundamental physical laws aiming to develop physics-consistent and scalable machine learning models to facilitate new discoveries from scientific data.   
 
 # Mineral-Microbe-Water Interaction 
 
