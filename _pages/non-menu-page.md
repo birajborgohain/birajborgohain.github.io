@@ -20,7 +20,7 @@ redirect_from:
   
 # Mineral-Microbe-Water Interaction (2022-present)
 
-* Exploring (1) how minerals form and react with their surrounding solutions - atomic to pore scale geochemical processes, (2) biogeochemical transformation and transportation of chemical and biological components at different temporal and spatial scales, and (3) models of ecological and biogeochemical systems that can be used to assess the impacts of mineral-microbe-water interactions in a geoengineering method (Enhanced Rock Weathering).
+* Exploring (1) how minerals react with their surrounding solutions - atomic to pore scale geochemical processes, (2) biogeochemical transformation of minerals and transportation of chemical components at different temporal and spatial scales, and (3) models of ecological and biogeochemical systems that can be used to assess the impacts of mineral-microbe-water interactions in a geoengineering method (Enhanced Rock Weathering).
   
    
 # Climate-Tectonic Interaction (2014-Present)
