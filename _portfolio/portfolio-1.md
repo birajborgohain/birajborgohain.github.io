@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Erosion Modeling for inversion of detrital Low-Temperature Thermochronometric ages"
-date: 2024-10-01
+date: 
 excerpt: "From detrital age to erosion history: A user guide to run Bayesian Erosion Model  <br/><img src='/images/web_bayes_3.png'> "
 collection: portfolio
 ---
