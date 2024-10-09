@@ -10,8 +10,8 @@ redirect_from:
 
 * Bayesian erosion model for detrital thermochronological ages inversion
   * Bayesian probabilistic programming with Markov chain Monte Carlo (MCMC) methods (PyMC).
-* Pyhton
-  * Data analysis and visualisation (jupyter lab, matplotlib, scipy, scikit-learn, seaborn)
+* Python
+  * Data analysis and visualization (jupyter lab, matplotlib, scipy, scikit-learn, seaborn)
   * Dataset management (pandas)
   * Geospatial (gdal, pcraster)
   * Package distribution (conda, pip)
@@ -20,13 +20,13 @@ redirect_from:
   * Morphometric analysis (Topotoolbox, Topographic Analysis Kit)
   * River profile inversion
 * R
-  * Fission track data ploting (IsoplotR)
+  * Fission track data plotting (IsoplotR)
   * Luminescence dating data analysis (RLum)
 * QGIS
 * HEC-RAS paleo-hydrological modeling
 * Laboratory
   * Luminescence dating sample preparation
-  * Fission track dating sample prepartion
+  * Fission track dating sample preparation
   * Heavy mineral analysis
   * Detrital grain thin section preparation
 
