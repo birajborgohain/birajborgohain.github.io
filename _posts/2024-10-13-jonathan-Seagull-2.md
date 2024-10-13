@@ -1,8 +1,7 @@
 ---
 title: '*Don’t believe what your eyes are telling you....* - Bach, R. (1970)'
 
-date: 2024-10-13
-permalink: /posts/2024/10/13/jonathan-Seagull-2/
+
 
 tags:
   - Curiosity
