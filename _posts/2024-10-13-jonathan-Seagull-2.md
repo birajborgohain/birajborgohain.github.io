@@ -1,14 +1,12 @@
 ---
-title: '"When To Do What You Love" by Paul Graham'
+title: '*Don’t believe what your eyes are telling you....* - Bach, R. (1970)'
+
+date: 2024-10-13
+permalink: /posts/2024/10/13/jonathan-Seagull-2/
 
 tags:
   - Curiosity
  
 ---
 
-> *"Not everyone can do great work, or wants to. But if you do want to, ... The root of great work is a sort of ambitious curiosity,.."* -  Paul Graham
-
-
-
-**Full article is found in this [link](https://paulgraham.com/when.html)**
-
+> *Don’t believe what your eyes are telling you. All they show is limitation. Look with your understanding. Find out what you already know and you will see the way to fly.* - Bach, R. (1970). *Jonathan Livingston Seagull*. Macmillan.
