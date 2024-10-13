@@ -1,1 +1,14 @@
+---
+title: '"When To Do What You Love" by Paul Graham'
+
+tags:
+  - Curiosity
+ 
+---
+
+> *"Not everyone can do great work, or wants to. But if you do want to, ... The root of great work is a sort of ambitious curiosity,.."* -  Paul Graham
+
+
+
+**Full article is found in this [link](https://paulgraham.com/when.html)**
 
