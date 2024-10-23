@@ -11,17 +11,16 @@ redirect_from:
 
 # Computer programming to build tools for the geoscience community (2024-Present)
 
-* Developing skills to write code in Python, C++, and FORTRAN.
-* Exploring physics-informed machine learning (PIML) methods to enable effective modeling of complex Earth systems involving multiple physical processes, scale lengths, and phases. PIML is an approach that incorporates deep learning with fundamental physical laws aiming to develop physics-consistent and scalable machine learning models to facilitate new discoveries from scientific data.
+* Developing coding skills in Python, C++, and FORTRAN.
+* Exploring physics-informed machine learning (PIML) methods for modeling complex Earth systems involving multiple physical processes, scales, and phases. PIML combines deep learning with fundamental physical laws, aiming to create physics-consistent and scalable models that facilitate scientific discoveries from data.
 
 # Earth Science Education Research (2023-Present)
 
-* Designing research projects and conducting fieldwork for school students as a means to popularise geoscience and prepare them for careers in Earth Sciences.
+* Guiding young researchers (high school students) in their research projects and fieldwork to popularize geoscience and prepare them for careers in Earth Sciences.
   
 # Mineral-Microbe-Water Interaction (2022-present)
 
-* Exploring (1) how minerals react with their surrounding solutions - atomic to pore scale geochemical processes, (2) biogeochemical transformation of minerals and transportation of chemical components at different temporal and spatial scales, and (3) models of ecological and biogeochemical systems that can be used to assess the impacts of mineral-microbe-water interactions in a geoengineering method (Enhanced Rock Weathering).
-  
+* Exploring (a) how minerals react with surrounding solutions—focusing on atomic to pore-scale geochemical processes, (b) the biogeochemical transformation of minerals and transport of chemical components across different spatial and temporal scales, and (c) models of ecological and biogeochemical systems that assess the impacts of mineral-microbe-water interactions in geoengineering methods such as Enhanced Rock Weathering.
    
 # Climate-Tectonic Interaction (2014-Present)
 * Studied the interactions between climate and tectonic processes associated with the Himalayan orogeny.
