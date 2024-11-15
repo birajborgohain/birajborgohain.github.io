@@ -14,13 +14,14 @@ redirect_from:
 * Developing coding skills in Python, C++, and FORTRAN.
 * Exploring physics-informed machine learning (PIML) methods for modeling complex Earth systems involving multiple physical processes, scales, and phases. PIML combines deep learning with fundamental physical laws, aiming to create physics-consistent and scalable models that facilitate scientific discoveries from data.
 
+# Mineral-Microbe-Water Interaction (2024-present)
+
+* Exploring (a) how minerals react with surrounding solutions—focusing on atomic to pore-scale geochemical processes, (b) the biogeochemical transformation of minerals and transport of chemical components across different spatial and temporal scales, and (c) models of ecological and biogeochemical systems that assess the impacts of mineral-microbe-water interactions in geoengineering methods such as Enhanced Rock Weathering.
+
 # Earth Science Education Research (2023-Present)
 
 * Guiding young researchers (high school students) in their research projects and fieldwork to popularize geoscience and prepare them for careers in Earth Sciences.
   
-# Mineral-Microbe-Water Interaction (2022-present)
-
-* Exploring (a) how minerals react with surrounding solutions—focusing on atomic to pore-scale geochemical processes, (b) the biogeochemical transformation of minerals and transport of chemical components across different spatial and temporal scales, and (c) models of ecological and biogeochemical systems that assess the impacts of mineral-microbe-water interactions in geoengineering methods such as Enhanced Rock Weathering.
    
 # Climate-Tectonic Interaction (2014-Present)
 * Studied the interactions between climate and tectonic processes associated with the Himalayan orogeny.
