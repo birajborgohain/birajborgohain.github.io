@@ -16,7 +16,7 @@ redirect_from:
 
 # Mineral-Microbe-Water Interaction (2024-present)
 
-* Exploring (a) how minerals react with surrounding solutions—focusing on atomic to pore-scale geochemical processes, (b) the biogeochemical transformation of minerals and transport of chemical components across different spatial and temporal scales, and (c) models of ecological and biogeochemical systems that assess the impacts of mineral-microbe-water interactions in geoengineering methods such as Enhanced Rock Weathering.
+* Exploring (a) how minerals react with surrounding solutions—focusing on atomic to pore-scale geochemical processes for understanding soil-carbon dynamic, (b) the biogeochemical transformation of minerals and transport of chemical components across different spatial and temporal scales to study environmental contamination, and (c) models of ecological and biogeochemical systems that assess the impacts of mineral-microbe-water interactions in geoengineering methods such as Enhanced Rock Weathering.
 
 # Earth Science Education Research (2023-Present)
 
