@@ -22,6 +22,11 @@ redirect_from:
 
 * Guiding young researchers (high school students) in their research projects and fieldwork to popularize geoscience and prepare them for careers in Earth Sciences.
   
+# Bayesian Machine Learning (2020-Present)
+
+* Applied Bayesian Machine Learning for inverting detrital cooling ages into erosion history using the PyMC Python library.
+
+* Bayesian Machine Learning is an approach in artificial intelligence that seamlessly integrates statistical inference with machine learning. Unlike traditional machine learning, which primarily emphasizes predictions, BML incorporates the principles of probability and inference, creating a framework where learning dynamically evolves as new evidence is acquired.
    
 # Climate-Tectonic Interaction (2014-Present)
 * Studied the interactions between climate and tectonic processes associated with the Himalayan orogeny.
