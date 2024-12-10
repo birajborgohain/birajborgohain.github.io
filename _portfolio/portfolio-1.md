@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Erosion Modeling for inversion of detrital Low-Temperature Thermochronometric ages"
 date: 2024-10-01
-excerpt: "From detrital age to erosion history: A user guide to run Bayesian Erosion Model  <br/><img src='/images/web_bayes_3.png'> ", Please reach out here (borgohain.biraj@gmail.com) for more aid!
+excerpt: "From detrital age to erosion history: A user guide to run Bayesian Erosion Model  <br/><img src='/images/web_bayes_3.png'>, Please reach out here (borgohain.biraj@gmail.com) for more aid!"
 collection: portfolio
 ---
 
@@ -111,9 +111,8 @@ The following changes are required in ```model_setup.py```, this can be done by 
    - **Uniform erosion rate scenarios**: In the uniform erosion history scenario, the break will be zero, i.e., ```break = 0```, which refers to uniform erosion rates through time or no change in erosion rates throughout the time.
    - **Non-uniform erosion rate scenario** (```break=1,2```), which refers to variation in erosion rates through time. Here, ```break=1``` for the one-break scenario refers to one discrete change in erosion rates through time, and ```break=2``` for the two-break refers to two discrete changes in erosion rate through time. *Note the change can happen any time (```break=1```) or any number of times (```break=2```) between the assigned time range of change in erosion rates, here, for example between ```0 to 60```Ma*
      
-4. The best model scenario (whether  ```break=0```[zero-break], ```break=1```[one-break], or ```break=2```[two-break]) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit (**GOF**) plot that displays the results of Kolmogorov-Smirnov (**KS**) test. An overlap of these two data suites indicates an acceptable model fit. For example, the plot below displays a degree of overlap between simulated ages and measured ages; it is shown using the cumulative probability plots of measured AFT (orange dots) and swaths of modeled (or simulated) AFT (blue) ages. Here (bottom three subplots) show p-values for zero break, one break, and two breaks models. The p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered here is p >0.05. One break model displays a better p-value (0.35) compared to zero and two breaks, indicating one discrete change in erosion rates around ~8 ma from the initial slow to later rapid in the catchment <span style="font-size:18px; color:green"> ANIDT4</span>.
-<be>.
-
+4. The best model scenario (whether  ```break=0```[zero-break], ```break=1```[one-break], or ```break=2```[two-break]) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit (**GOF**) plot that displays the results of Kolmogorov-Smirnov (**KS**) test. An overlap of these two data suites indicates an acceptable model fit. For example, the plot below displays a degree of overlap between simulated ages and measured ages; it is shown using the cumulative probability plots of measured AFT (orange dots) and swaths of modeled (or simulated) AFT (blue) ages. Here (the bottom three subplots) show p-values for zero break, one break, and two breaks models. The p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered here is p >0.05. One-break model displays a better p-value (0.35) compared to the zero-break model (0.02) and the two-break model (0.22), indicating that statistical inference supports a single discrete change in erosion history. This suggests that erosion rates in catchment <span style="font-size:18px; color:green">ANIDT4</span> shifted significantly around ~7 Ma, transitioning from initially slow to later rapid rates.
+   
 **Three model scenarios: ```zero-break```, ```one-break```, and ```two-break``` for a detrital AFT age distribution from a catchment** <br/><img src='/images/break models.png'>*Example displaying modeled cooling history using Bayesian erosion model.*  
      
 <br>
