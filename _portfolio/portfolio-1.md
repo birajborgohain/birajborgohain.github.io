@@ -7,7 +7,7 @@ collection: portfolio
 
 
 
-In Borgohain et al. 2025, which utilizes a Bayesian erosion model developed by Avdeev et al. (2011), demonstrate the results of **Bayesian erosion modeling** for estimating erosion history from detrital fission-track thermochronometric ages. 
+In Borgohain et al. (2025), which utilizes a Bayesian erosion model developed by Avdeev et al. (2011), demonstrate the results of **Bayesian erosion modeling** for estimating erosion history from detrital fission-track thermochronometric ages. 
 
 The following documentation describes: 
 - Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
