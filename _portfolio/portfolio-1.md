@@ -7,7 +7,7 @@ collection: portfolio
 
 
 
-Borgohain et al. 2024 (under review in Tectonics), which utilizes a Bayesian erosion model developed by Avdeev et al. (2011), demonstrate the results of **Bayesian erosion modeling** for estimating erosion history from detrital fission-track thermochronometric ages. 
+In Borgohain et al. 2025, which utilizes a Bayesian erosion model developed by Avdeev et al. (2011), demonstrate the results of **Bayesian erosion modeling** for estimating erosion history from detrital fission-track thermochronometric ages. 
 
 The following documentation describes: 
 - Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
@@ -122,7 +122,7 @@ The following changes are required in ```model_setup.py```, this can be done by 
 - *Avdeev, B., Niemi, N. A., & Clark, M. K.* (2011). **Doing more with less: Bayesian estimation of erosion models with detrital thermochronometric data.** Earth and Planetary Science Letters, 305(3–4), 385–395. https://doi.org/10.1016/j.epsl.2011.03.020
 
 
-- *Borgohain, B., Mathew, G., Salvi, D., Harbola, D., Rai, P.,* (2024). **Spatial-Temporal Variation in Erosion Rate of Lohit Bomi-Chayu Batholith around Eastern Himalayan Syntaxis (SE of Namche Barwa massif),** (Under Review in Tectonics)
+- *Borgohain, B., Mathew, G., Salvi, D., Harbola, D., Rai, P.,* (2025). **Spatial-Temporal Variation in Erosion Rate of Lohit Bomi-Chayu Batholith around Eastern Himalayan Syntaxis (SE of Namche Barwa massif),** Tectonics, 44, e2024TC008507, https://doi.org/10.1029/2024TC008507 
 
 
 
