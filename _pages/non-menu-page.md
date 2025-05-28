@@ -26,7 +26,6 @@ redirect_from:
 # Bayesian Machine Learning (2020-Present)
 
 * Applied Bayesian Machine Learning (BML) for inverting detrital cooling ages into erosion history using PyMC Python library.
-
 * Bayesian Machine Learning is an approach in artificial intelligence that seamlessly integrates statistical inference with machine learning. Unlike traditional machine learning, which primarily emphasizes predictions, BML incorporates the principles of probability and inference, creating a framework where learning dynamically evolves as new evidence is acquired.
    
 # Climate-Tectonic Interaction (2014-Present)
