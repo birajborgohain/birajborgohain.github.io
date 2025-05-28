@@ -13,7 +13,7 @@ redirect_from:
 
 * Developing coding skills in Python for high-performance scientific computing, geoscientific simulations, and data analysis.
 * Exploring physics-informed machine learning (PIML) methods for modeling complex Earth systems involving multiple physical processes, scales, and phases. PIML combines deep learning with fundamental physical laws, aiming to create physics-consistent and scalable models that facilitate scientific discoveries from data.
-* Building geoscience-specific AI tools (Artificial Intelligence for Geoscience) that include - Geoscience Language Models (GLM) for extracting structured knowledge from domain-specific texts and datasets, and Graph Representation Learning (GRL) to integrate and analyze gravity, magnetic, geochemical, and remote sensing data for critical mineral exploration in deep-cover, data-sparse regions.
+* Working on building geoscience-specific AI tools (Artificial Intelligence for Geoscience) that include - Geoscience Language Models (GLM) for extracting structured knowledge from domain-specific texts and datasets, and Graph Representation Learning (GRL) to integrate and analyze gravity, magnetic, geochemical, and remote sensing data for critical mineral exploration in deep-cover, data-sparse regions.
 
 # Mineral-Microbe-Water Interaction (2024-present)
 
