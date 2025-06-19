@@ -24,12 +24,12 @@ redirect_from:
 
 * Mentoring, Outreach & Experimental Training: At Prayoga, through the Anveshana Research program, I mentor high school students via project-based learning. This includes guiding field-based geoscience projects and microbiology lab experiments, promoting hands-on, interdisciplinary learning. These efforts aim to popularize Earth Sciences and cultivate the next generation of geoscientists.
   
-# Bayesian Machine Learning (2020-Present)
+# Bayesian Probabilistic Modeling (2020-Present)
 
-* Applied Bayesian Machine Learning (BML) for inverting detrital cooling ages into erosion history using PyMC Python library.
-* Bayesian Machine Learning is an approach in artificial intelligence that seamlessly integrates statistical inference with machine learning. Unlike traditional machine learning, which primarily emphasizes predictions, BML incorporates the principles of probability and inference, creating a framework where learning dynamically evolves as new evidence is acquired.
+* Applied Bayesian Probabilistic Modeling (BPM) for inverting detrital cooling ages into erosion history using PyMC Python library.
+* BPM is an approach in artificial intelligence that seamlessly integrates statistical inference with machine learning. Unlike traditional machine learning, which primarily emphasizes predictions, BML incorporates the principles of probability and inference, creating a framework where learning dynamically evolves as new evidence is acquired.
    
-# Climate-Tectonic Interaction (2014-Present)
+# Tectonic-Geomorphology, Thermochronology (2014-Present)
 
 * Studied the interactions between climate and tectonic processes associated with the Himalayan orogeny.
 * Tools used in quantifying climate-tectonic interplay include (1) geochronology, such as low-temperature thermochronology and optically stimulated luminescence dating; (2) remote sensing data; (3) multidisciplinary sedimentology, tectonics, and geomorphology approach; and (4) Bayesian statistical modeling.
