@@ -11,8 +11,9 @@ In Borgohain et al. (2025), which utilizes a Bayesian erosion model developed by
 
 The following documentation describes: 
 - Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
-- Configuring a model for a catchment with code name <span style="font-size:18px; color:green"> ANIDT4</span> 
-- Details about code options (Will be uploaded soon). 
+- Configuring a model for a catchment (<span style="font-size:18px; color:green"> ANIDT4</span>)
+- Details about code options (Will be uploaded soon).
+- Details about code modification for Borgohain et al. (2025) (Will be uploaded soon).
 
 
 
