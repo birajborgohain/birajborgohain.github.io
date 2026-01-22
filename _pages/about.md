@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Current Focus (2026-2029): I am developing expertise in integrating Earth surface processes with geodynamics, starting this new research phase with focus for the next three years
-
-In the past (2014-2025), I conducted research in Earth Science, integrating geosciences—mineralogy, geo-thermo-chronology, tectonics, bio-geo-chemistry, and geo-microbiology—to study climate change impacts on water and food security for a sustainable future. Tools that fascinated me included geo-thermochronometric dating, luminescence dating, geomorphometric analysis, numerical modeling (thermo-kinematic and thermo-mechanical), physics-informed machine learning, Bayesian deep learning, and reactive transport modeling, revealing erosion, weathering, regolith formation, and biogeochemical cycling from soil, water, sediment, and rock samples.
-​
-Integrating these data can help in understanding how natural processes and humans shape Earth’s surface in making our Earth habitable, and this, in turn, can enable better management of Earth’s resources effectively and efficiently.
+My current research focus (2026–2029) centres on advancing expertise in coupling Earth surface processes with deep Earth geodynamics to improve understanding of landscape evolution and Earth system feedbacks.
 
 
 
