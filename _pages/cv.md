@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-
+Present Employment
+======
+* 2026 (Jan)- Present: Research Assistant, Earth and Environmental Science Department, New Mexico Institute of Technology, New Mexcico, USA.
 
 Past Employment
 ======
 
-* 2023 (Aug)- 2025 (Sep): Researcher, Earth Sciences, [Prayoga Institute of Education Research](https://www.prayoga.org.in/), Bengaluru 
-* 2023 (July)- 2023 (Aug): Assistant Professor, Geology, Sri Dev Suman Uttarakhand University, Pt. L.M.S Campus Rishikesh
-* 2021-2022: Post-Doctoral Fellow,  Earth Sciences, Indian Institute of Technology, Bombay
-* 2020-2021: Research Associate,  Earth Sciences, Indian Institute of Technology, Bombay
-* 2012-2013: Project Assistant, Applied Geology, Dibrugarh University
+* 2023 (Aug)- 2025 (Sep): Researcher, Earth Sciences, [Prayoga Institute of Education Research](https://www.prayoga.org.in/), Bengaluru, India 
+* 2023 (July)- 2023 (Aug): Assistant Professor, Geology, Sri Dev Suman Uttarakhand University, Pt. L.M.S Campus Rishikesh, India
+* 2021-2022: Post-Doctoral Fellow,  Earth Sciences, Indian Institute of Technology, Bombay, India
+* 2020-2021: Research Associate,  Earth Sciences, Indian Institute of Technology, Bombay, India
+* 2012-2013: Project Assistant, Applied Geology, Dibrugarh University, India
 
 Education
 ======
