@@ -1,4 +1,4 @@
-\# The Reformer Asks What Must Survive After He Is Gone
+# The Reformer Asks What Must Survive After He Is Gone
 
 ## The Difference Between a Ruler and a Reformer
 
